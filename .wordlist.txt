@@ -578,6 +578,7 @@ FroshPluginUploader
 Fullstack
 func
 gd
+gzip
 GDPR
 GenericPage
 GenericPageLoader
@@ -1657,3 +1658,4 @@ YYYY
 zlib
 zsh
 ZSH
+zstd
